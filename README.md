@@ -8,5 +8,4 @@
 - 💬 Lauguage: Fluent in Mandarin, with elementary proficiency in English, and a basic understanding of Japanese.
 - 📫 How to reach me: [Telegram](https://t.me/windshadow233)、[Email](mailto:me@mail.fyz666.xyz)
 
-![snake gif](https://github.com/powator/powator/blob/output/github-contribution-grid-snake.gif)
 
