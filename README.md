@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack+Nerd&duration=2500&pause=50&color=18A4F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=450&height=75&lines=Hi+there%2C+I'm+Powa;Cybersecurity+Professional)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack+Nerd&duration=2500&pause=50&color=18A4F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=800&height=75&lines=Hi+there%2C+I'm+Powa;Cybersecurity+Professional)](https://git.io/typing-svg)
 
 
 - 🎓 I currently major in 📊 Big Data & 🤖 Deep Learning at University of Science and Technology of China (USTC).
